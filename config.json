@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "tmetroofficial@gmail.com",
+		"password": "adisbot420",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -12,13 +12,16 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "GoatBot",
-	"prefix": "-",
+	"nickNameBot": "Lvy Pookie💗",
+	"prefix": "/",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [
+    "100082733240763",
+    "100050391949185"
+  ],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
@@ -37,18 +40,18 @@
 		"autoRefreshThreadInfoFirstTime": true,
 		"notes": "(1) type selects 'json' or 'sqlite' or 'mongodb'. If you choose mongodb, enter uri connect mongodb in the uriMongodb section, instructions to get uri connect mongodb at: https://youtu.be/z1f9urHW5xY. I recommend using 'mongodb' or 'sqlite', json is not recommended because it is not stable. (2) when you set autoSyncWhenStart to true, the bot will automatically synchronize the data in the database when starting the bot, this will make the bot start slower. (3) when you set autoRefreshThreadInfoFirstTime to true, the bot will automatically refresh the thread information when get first message from the thread since starting the bot"
 	},
-	"timeZone": "Asia/Ho_Chi_Minh",
+	"timeZone": "Asia/Dhaka",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
+			"email": "amiadikhanna@gmail.com",
+			"clientId": "648368298538-m8gajjhe3efpvjvivfglptno1s69u8ne.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//04abMtI8-htw_CgYIARAAGAQSNwF-L9IrEe45v2tZfj2QC3oH0DlMmsqxicq5O_PIspXgMIOkdwny9tHKfrWW2Atn3joQSSQAvLQ",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
+			"siteKey": "6Lfj-e8pAAAAAFgNIG384tX1BlYa9mMX7VD6aGU3",
+			"secretKey": "6Lfj-e8pAAAAAIyZA5cBx3tmcRa-TeoNCFA2VeZs"
 		}
 	},
 	"dashBoard": {
