@@ -54,7 +54,7 @@ module.exports = {
       msg += │ » Type [ ${prefix}help <cmd> ]\n;
       msg += │ to learn the usage.\n;
       msg += ╰────────◊\n\n;
-      msg +=     「 🐐V2 | Lvy Muse 」;
+      msg +=     「 🐐V2 | Levi Ackerman 」;
 
       await message.reply({ body: msg });
     } else {
