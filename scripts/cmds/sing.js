@@ -19,7 +19,7 @@ module.exports = {
     description: {
       en: "Download audio from YouTube"
     },
-    category: "media",
+    category: "Music",
     guide: {
       en: "{pn} [<song name>|<song link>]: use to download audio from YouTube" + "\n   Example:"
         + "\n{pn} chipi chipi chapa chapa"
